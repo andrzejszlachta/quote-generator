@@ -28,5 +28,5 @@ https://andrzejszlachta.github.io/
 
 ## Acknowledgements
 
-API: https://jacintodesign.github.io/quotes-api/
+API: https://jacintodesign.github.io/quotes-api/  
 JavaScript Web Projects: 20 Projects to Build Your Portfolio
